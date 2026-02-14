@@ -130,3 +130,10 @@ The Execution Engine executes the bytecode contained in the loaded classes.
 
 ## 5. Conclusion
 Effective memory management in MediTrack requires understanding the distinction between the **Stack** and the **Heap**. References and primitive local variables are managed in the Stack, while the actual object instances reside in the Heap, managed by the Garbage Collector.
+
+
+
+
+
+
+**SUBMITED BY- VARNIT SRIVASTAVA**
